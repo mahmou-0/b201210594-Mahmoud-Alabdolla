@@ -1,0 +1,4 @@
+1) "yap" komutunu çalıştırın
+2) "bin" dizinine gidin
+3) "app.exe"yi çalıştırın
+4) Bir sayı girin
